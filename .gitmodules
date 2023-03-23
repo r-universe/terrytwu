@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "EconDemand"]
+	path = EconDemand
+	url = https://github.com/cran/EconDemand
+	shallow = true
+	registered = true
+[submodule "matrixLaplacian"]
+	path = matrixLaplacian
+	url = https://github.com/cran/matrixLaplacian
+	shallow = true
+	registered = true
+[submodule "NMI"]
+	path = NMI
+	url = https://github.com/cran/NMI
+	shallow = true
+	registered = true
+[submodule "SpectralMap"]
+	path = SpectralMap
+	url = https://github.com/cran/SpectralMap
+	shallow = true
+	registered = true
