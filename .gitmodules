@@ -5,12 +5,12 @@
 [submodule "EconDemand"]
 	path = EconDemand
 	url = https://github.com/cran/EconDemand
-[submodule "matrixLaplacian"]
-	path = matrixLaplacian
-	url = https://github.com/cran/matrixLaplacian
 [submodule "NMI"]
 	path = NMI
 	url = https://github.com/cran/NMI
 [submodule "SpectralMap"]
 	path = SpectralMap
 	url = https://github.com/cran/SpectralMap
+[submodule "matrixLaplacian"]
+	path = matrixLaplacian
+	url = https://github.com/cran/matrixLaplacian
